@@ -1,0 +1,60 @@
+Margherita;(Pomodoro, Mozzarella);5.0
+Marinara;(Pomodoro, Origano, Aglio);4.0
+Capricciosa;(Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi);7.5
+Prosciutto;(Pomodoro, Mozzarella, Prosciutto);6.5
+Prosciutto e Funghi;(Pomodoro, Mozzarella, Prosciutto, Funghi);7.0
+Quattro Stagioni;(Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Olive Nere);7.5
+Porcini;(Pomodoro, Mozzarella, Funghi Porcini);7.0
+Bufalina;(Pomodoro, Mozzarella di Bufala, Origano);7.0
+Verdure;(Pomodoro, Mozzarella, Verdure Grigliate, Grana);7.0
+Diavola;(Pomodoro, Mozzarella, Salame Piccante);7.0
+Wurstel;(Pomodoro, Mozzarella, Wurstel);6.0
+Tedesca;(Pomodoro, Mozzarella, Patatine Fritte, Wurstel);7.0
+Contadina;(Pomodoro, Mozzarella, Asparagi, Funghi, Pancetta, Grana);7.5
+Gorgonzola;(Pomodoro, Mozzarella, Gogonzola);6.5
+Quattro Formaggi;(Pomodoro, Mozzarella, Gorgonzola, Fontina, Scamorza, Grana);7.0
+Frutti di Mare;(Pomodoro, Mozzarella, Frutti di Mare);0.0
+Calamari;(Pomodoro, Mozzarella, Calamari Fritti);0.0
+Tonno e Cipolle;(Pomodoro, Mozzarella, Tonno, Cipolle, Origano);7.0
+Pugliese;(Pomodoro, Mozzarella, Cipolle, Olive Nere, Grana, Origano);7.0
+Napoli;(Pomodoro, Mozzarella, Acciughe, Origano);6.0
+Siciliana;(Pomodoro, Olive, Capperi, Acciughe, Origano);6.0
+Romana;(Pomodoro, Mozzarella, Capperi, Acciughe, Origano);7.0
+Calzone;(Mozzarella, Prosciutto);7.0
+Calzone Farcito;(Mozzarella, Prosciutto, Funghi, Carciofi);8.0
+Mare e Monti;(Pomodoro, Mozzarella, Funghi Porcini, Gamberetti);8.5
+Tirolese;(Pomodoro, Mozzarella, Funghi Porcini, Speck);8.0
+Speck e Brie;(Pomodoro, Mozzarella, Speck, Brie);7.5
+Crudo e Bufala;(Pomodoro, Mozzarella, Bufala, Crudo);7.5
+Panna e Crudo;(Pomodoro, Mozzarella, Panne, Crudo);7.5
+Piemontese;(Pomodoro, Mozzarella, Scamorza, Speck);7.5
+Valtellina;(Pomodoro, Mozzarella, Bresaola, Scaglie di Grana, Rucola);8.0
+Parmigiana;(Pomodoro, Mozzarella, Melanzane, Prosciutto Cotto, Basilico, Grana);7.5
+Salsiccia;(Pomodoro, Mozzarella, Salsiccia);7.0
+Deliziosa;(Pomodoro, Mozzarella, Salmone Affumicato, Rucola);8.0
+Asparagi;(Pomodoro, Mozzarella, Asparagi, Grana);6.5
+Raggio di Sole;(Pomodoro, Mozzarella, Asparagi, Pancetta, Uovo, Grana);8.0
+Giardino;(Pomodoro, Insalata, Pomodorini, Mozzarella, Olive Verdi, Mais);7.5
+Arrabbiata;(Pomodoro, Mozzarella, Salame Piccante, Peperoni, Peperoncino);7.5
+Gorgo e Salame Piccante;(Pomodoro, Mozzarella, Gorgonzola, Salame Piccante);7.5
+Amatriciana;(Pomodoro, Mozzarella, Pancetta, Cipolle, Peperoncino);7.0
+Maialona;(Pomodoro, Mozzarella, Wurstel, Salame Piccante, Prosciutto Cotto);8.0
+Trevisana;(Pomodoro, Mozzarella, Trevisano, Scamorza, Grana);7.5
+Boscaiola;(Pomodoro, Mozzarella, Porcini, Scaglie di Grana, Rucola);8.0
+Carbonara;(Mozzarella, Pancetta, Uovo, Grana, Pepe);7.0
+Caprese;(Mozzarella di Bufala, Pomodorini, Origano);7.5
+Friarielli e Salsiccia;(Mozzarella, Friarielli, Salsiccia);8.0
+Gorgo e Mele;(Mozzarella, Gorgonzola, Mele);7.5
+Braccio di Ferro;(Mozzarella, Spinaci, Ricotta, Grana);7.0
+Gorgo e Noci;(Mozzarella, Gorgonzola, Noci);7.5
+Dev & Gian;(Mozzarella, Salsiccia, Patate Lesse, Aromi, Grana);8.0
+Sperone;(Pomodoro, Mozzarella, Cozze, Patate Lesse, Rucola);8.0
+Gargano;(Mozzarella, Pomodorini Freschi, Gamberetti, Basilico);8.0
+Adriatico;(Pomodoro, Bufala, Basilico, Gamberetti);8.5
+S. Giovanni Rotondo;(Pomodoro, Mozzarella, Porcini, Salsiccia);8.0
+Manfredonia;(Mozzarella, Cime di Rapa, Acciughe, Olive);7.5
+Vieste;(Pomodoro, Mozzarella, Gamberetti, Salmone Affumicato);9.0
+Peschici;(Pomodoro, Mozzarella, Gamberetti, Zucchine);8.0
+Capriccio;(Misticanza di Verdure, Pomodorini, Tonno, Mais, Olive Verdi);7.5
+Fantasia;(Pomodorini, Bufala, Salmone, Rucola);9.0
+Mediterraneo;(Misticanza di Verdure, Pomodorini, Gamberetti, Polpa di Granchio, Salmone);9.0

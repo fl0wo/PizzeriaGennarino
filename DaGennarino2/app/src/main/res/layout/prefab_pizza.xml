@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="111dp" android:layout_height="125dp"
+    android:onClick="click">
+
+
+    <ImageView
+        android:id="@+id/immaginePizza"
+        android:layout_width="111dp"
+        android:layout_height="76dp"
+        android:scaleX=".7"
+        android:scaleY=".7"
+        app:srcCompat="@drawable/ic_pizza" />
+
+
+    <TextView
+        android:id="@+id/nomePizza"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/immaginePizza"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:text="MARGHERITA"
+        android:gravity="center"
+        android:textColor="#000"
+        />
+
+    <TextView
+        android:id="@+id/prezzo"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nomePizza"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="5.50 $"
+        android:textColor="#000" />
+
+    <ImageView
+        android:id="@+id/tick_id"
+        android:visibility="invisible"
+        android:layout_width="36dp"
+        android:layout_height="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        app:srcCompat="@drawable/ic_tick_svg"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:id="@+id/nPizze"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text=""
+        android:textColor="@color/bianco"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true" />
+
+    <ImageView
+        android:id="@+id/add_butt"
+        android:layout_width="48dp"
+        android:layout_height="49dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="27dp"
+        android:layout_marginRight="27dp"
+        android:layout_toStartOf="@+id/tick_id"
+        android:layout_toLeftOf="@+id/tick_id"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/ic_aggiungi" />
+
+
+</RelativeLayout>

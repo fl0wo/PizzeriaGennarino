@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5757</color>
+    <color name="colorPrimaryDark">#ff5656</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="bordo_pizza">#ffd4aa</color>
+    <color name="bianco">#fff</color>
+    <color name="white">#fff</color>
+    <color name="white_trasparent">#ffffcc</color>
+    <color name="white_pressed">#BABBC0</color>
+    <color name="half_black">#000</color>
+    <color name="half_black_real">#1B1940</color>
+
+</resources>
